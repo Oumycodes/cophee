@@ -27,7 +27,7 @@ students:
   link: https://scarlettwang.com/
   role: "MS Student" 
   affiliation: "Tandon School of Engineering, NYU"
-  image: assets/images/people/sw.jpg
+  image: assets/images/people/sw.png
   tenure: "current"
   year: 2027
   
@@ -38,7 +38,23 @@ students:
   image: assets/images/people/ud.jpg
   tenure: "current"
   year: 2027
+
+- name: "Bhavith Chandra"
+  link: https://www.linkedin.com/in/bhavith-chandra-2a7839274
+  role: "MS Student" 
+  affiliation: "Tandon School of Engineering, NYU"
+  image: assets/images/people/BC.jpg
+  tenure: "current"
+  year: 2027
   
+- name: "Ethan Pan"
+  link: https://ethanpany.github.io/
+  role: "UG Student"
+  affiliation: "NYU"
+  image: assets/images/people/ep.png
+  tenure: "current"
+  year: 2027
+
 ## Template
 # - name: "Full Name"
 #   link: [Personal website or LinkedIn link]
