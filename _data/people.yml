@@ -62,6 +62,15 @@ students:
   image: assets/images/people/sid.jpg
   tenure: "current"
   year: 2027
+
+- name: "Kevin Chow"
+  link: https://kevin-chow.me/
+  role: "Postdoc"
+  affiliation: "Tandon School of Engineering, NYU"
+  image: assets/images/people/kkc.jpg
+  tenure: "current"
+  year: 2027
+  
 ## Template
 # - name: "Full Name"
 #   link: [Personal website or LinkedIn link]
