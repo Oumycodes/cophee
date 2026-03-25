@@ -25,7 +25,6 @@
     {% endif %}
     <p><a href="{{ student.link }}">{{ student.name }}</a></p>
     <p>{{ student.role }}</p>
-    <p>{{ student.affiliation }}</p>
     
   </div>
   {% endif %}
